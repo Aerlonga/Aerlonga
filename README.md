@@ -4,9 +4,8 @@
 
 ## Sobre mim
 
-- 💻 Desenvolvedor **Full Stack**, apaixonado por construir sistemas completos — do backend ao frontend.  
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**.  
-- 💼 Atualmente trabalhando com **Java**, **Angular**, **Laravel** e **Php**.  
+- 💻 Desenvolvedor **Full Stack**.  
+- 💼 Atualmente trabalhando com **Java**, **Angular**, **Laravel** e **Spring Boot**.  
 - 🌱 Aprendendo e aprimorando meus conhecimentos em **arquitetura de microsserviços**, **JWT**, e **boas práticas de APIs RESTful**.  
 - ⚙️ Buscando sempre evoluir e criar soluções limpas, performáticas e reutilizáveis.  
 
