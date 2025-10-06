@@ -64,9 +64,15 @@
 
 ## 🌐 Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Aerlon%20Gonçalves%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aerlon-gon%C3%A7alves-alves-934901143/?locale=en_US)](https://www.linkedin.com/in/aerlon-gon%C3%A7alves-alves-934901143/?locale=en_US)
-[![Gmail](https://img.shields.io/badge/-aerlon.as@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aerlon.as@gmail.com)](mailto:aerlon.as@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Aerlonga?label=follow&style=social)](https://github.com/Aerlonga)
+<a href="https://www.linkedin.com/in/aerlon-gon%C3%A7alves-alves-934901143/?locale=en_US" target="_blank">
+  <img src="https://img.shields.io/badge/-Aerlon%20Gonçalves%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+<a href="mailto:aerlon.as@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-E--mail-006bed?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Aerlonga" target="_blank">
+  <img src="https://img.shields.io/github/followers/Aerlonga?label=follow&style=social" />
+</a>
 
 ---
 
