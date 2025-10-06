@@ -47,17 +47,6 @@
 ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 
----
-
-### **Ferramentas de desenvolvimento**
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=8848FF)
-![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver)
-![PostgreSQL](https://img.shields.io/badge/-pgAdmin-333333?style=flat&logo=postgresql)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
 
 ---
 
