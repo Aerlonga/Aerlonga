@@ -15,7 +15,7 @@
 
 ### **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot&logoColor=6DB33F)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
