@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Aerlonga&color=006bed)
 
-# 👋 Olá, eu sou o Aerlon Gonçalves Alves
+# 👋 Olá, eu sou o Aerlon
 
 ## Sobre mim
 
