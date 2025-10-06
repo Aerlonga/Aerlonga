@@ -62,7 +62,7 @@
 ---
 
 <a href="https://github.com/Aerlonga" title="Perfil do Aerlon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aerlonga&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aerlonga&layout=compact&theme=dracula"/>
 </a>
 
 ---
