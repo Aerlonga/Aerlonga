@@ -59,18 +59,13 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
----
-
-<a href="https://github.com/Aerlonga" title="Perfil do Aerlon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aerlonga&theme=dracula&show_icons=true" />
-</a>
 
 ---
 
 ## 🌐 Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Aerlon%20Gonçalves%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aerlon-gon%C3%A7alves-alves-934901143/?locale=en_US)](https://www.linkedin.com/in/aerlon-gon%C3%A7alves-alves-934901143/?locale=en_US)
-[![Gmail](https://img.shields.io/badge/-aerlon.goncalves@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aerlon.goncalves@gmail.com)](mailto:aerlon.goncalves@gmail.com)
+[![Gmail](https://img.shields.io/badge/-aerlon.as@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aerlon.as@gmail.com)](mailto:aerlon.as@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Aerlonga?label=follow&style=social)](https://github.com/Aerlonga)
 
 ---
